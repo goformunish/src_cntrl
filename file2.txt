@@ -3,3 +3,4 @@ let's make a change
 this is another another change
 this is for squash merge
 this is another squash merge
+another another squash merge
