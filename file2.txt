@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 this is file2 version2. need to update
 now making the required change to log it to remote repo
 this is another change
+=======
+this is file2
+ket's make a change
+>>>>>>> feature1
