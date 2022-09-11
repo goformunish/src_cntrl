@@ -1,2 +1,2 @@
-this is file2.
+this is file2 version2.
 now making the required change to log it to remote repo
