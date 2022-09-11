@@ -1,3 +1,4 @@
 this is file2
 let's make a change
 this is another another change
+this is for squash merge
